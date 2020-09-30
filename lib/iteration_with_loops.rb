@@ -5,5 +5,5 @@ def find_min_in_nested_arrays(array_of_daily_temperatures)
     p array_of_daily_temperatures[count].min
     count += 1
   end
-  
+
 end
